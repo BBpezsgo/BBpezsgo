@@ -13,3 +13,5 @@
 🔧 **Langauges and Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,cs,dotnet,unity,nodejs,vscode)](#)
+
+> The profile picture is from [here](https://pixabay.com/photos/cats-eyes-cat-black-looking-gaze-2944820/)
