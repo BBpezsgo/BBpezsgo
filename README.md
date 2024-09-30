@@ -2,7 +2,7 @@
 
 😺 A silly programmer coding more than 5 years now.
 
-🔭 **I'm working on** my [minecraft bot](https://github.com/BBpezsgo/Bruh-MC-Bot), [programming language](https://github.com/BBpezsgo/Interpreter) and my Unity game (not public yet). I don't have much free time so thats it.
+🔭 **I'm working on** my [minecraft bot](https://github.com/BBpezsgo/Bruh-MC-Bot), [programming language](https://github.com/BBpezsgo/Interpreter) and my [Unity game](https://github.com/BBpezsgo/Nothing-DOTS). I don't have much free time so thats it.
 
 🌱 **I'm learning** Unity DOTS, compiler and processor architecture, algorithms and optimizations.
 
